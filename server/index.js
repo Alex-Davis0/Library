@@ -14,5 +14,6 @@ app.get('/api/hello', (req, res) => {
 app.use(errorMiddleware);
 
 app.listen(process.env.PORT, () => {
-  process.stdout.write(`\n\napp listening on port ${process.env.PORT}\n\n`);
+  // eslint-disable-next-line no-console
+  console.log(`express server listening on port ${process.env.PORT}`);
 });

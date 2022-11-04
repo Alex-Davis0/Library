@@ -1,0 +1,21 @@
+.background {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/839/50/541/library-cartoon-books-candles-wallpaper-preview.jpg");
+  background-size: cover;
+}
+
+.space {
+  justify-content: space-between;
+}
+
+.nav-col {
+  color: #182747;
+}
+
+.bg {
+  background-color: #815b5b;
+}
+
+.bg-search {
+  background-color: #182747;
+  border-color: #815b5b;
+}
