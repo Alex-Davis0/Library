@@ -11,6 +11,10 @@
   color: #182747;
 }
 
+.text-col {
+  color: #815b5b;
+}
+
 .add-col {
   background-color: #182747;
   color: #815b5b;
@@ -23,4 +27,12 @@
 .bg-search {
   background-color: #182747;
   border-color: #815b5b;
+}
+
+.center {
+  text-align: center;
+}
+
+.top-spacing {
+  margin-top: 15px;
 }

@@ -3,7 +3,9 @@ import React from 'react';
 export default function addbutton(props) {
   return (
     <>
-      <a className="btn add-col" href="#" role="button">Link</a>
+      <div className='center top-spacing'>
+        <a className='btn add-col' href='#' role='button'>Add New Book</a>
+      </div>
     </>
   );
 }
