@@ -7,22 +7,20 @@
   justify-content: space-between;
 }
 
-.size {
-  height: inherit;
-  width: inherit;
-}
-
 .nav-col {
   color: #182747;
 }
 
 .text-col {
-  color: #815b5b;
+  color: #182747;
+  font-size: 2.5rem;
+  background-color: #815b5b;
 }
 
 .add-col {
   background-color: #182747;
   color: #815b5b;
+  border-color: #182747;
 }
 
 .bg {
