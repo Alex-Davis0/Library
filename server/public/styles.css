@@ -1,6 +1,5 @@
 .background {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/839/50/541/library-cartoon-books-candles-wallpaper-preview.jpg");
-  background-size: cover;
+  background-color: #e6ddc4;
 }
 
 .space {
@@ -8,28 +7,28 @@
 }
 
 .nav-col {
-  color: #182747;
+  color: #678983;
 }
 
 .text-col {
   color: #182747;
-  font-size: 2.5rem;
+  font-size: 2rem;
   background-color: #815b5b;
 }
 
 .add-col {
-  background-color: #182747;
-  color: #815b5b;
+  background-color: #181d31;
+  color: #678983;
   border-color: #182747;
 }
 
 .bg {
-  background-color: #815b5b;
+  background-color: #181d31;
 }
 
 .bg-search {
-  background-color: #182747;
-  border-color: #815b5b;
+  background-color: #181d31;
+  border-color: #678983;
 }
 
 .center {
@@ -38,4 +37,8 @@
 
 .top-spacing {
   margin-top: 15px;
+}
+
+::placeholder {
+  color: #678983;
 }
