@@ -10,8 +10,8 @@ export default function HelloWorld(props) {
         <a className="navbar-brand nav-col" href="#">Library</a>
           </div>
           <form className="d-flex col-6">
-            <input className="form-control me-2 bg-search text-col" type="search" placeholder="Search" aria-label="Search"/>
-              <button className="btn nav-col" type="submit">Search</button>
+            <input className="form-control me-2 bg-search" type="search" placeholder="Search" aria-label="Search"/>
+              <button className="btn nav-col fa-solid fa-magnifying-glass" type="submit"></button>
           </form>
         </div>
       </div>
